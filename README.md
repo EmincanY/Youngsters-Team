@@ -5,4 +5,4 @@ We are 6 friends dealing with Data Science Projects.
 We are all students in TechPro Education.
 
 ## Github Information:
-We are working on data cleaning , data visulization and ML projects.
+We are working on data cleaning , data visulization and ML projects...
